@@ -18,7 +18,7 @@ With this application, you will be able to use a search box to display results o
   * [Questions](#questions)
 
 ### Installation
-This app is completely deployed using GitHub: [Deployed Link](https://acosta-andres-r.github.io/employee-directory/)
+This app is completely deployed using GitHub: [Deployed Link](https://aa-google-book-search.herokuapp.com)
 
 ### Usage
 
